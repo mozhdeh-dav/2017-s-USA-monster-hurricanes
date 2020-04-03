@@ -1,0 +1,20 @@
+AdvisoryNumber,Date,Lat,Long,Wind,Pres,Movement,stormtypeName,Name,Received,Forecaster
+7,4/21/2017 4:00,39.4,-44.2,50,993,NW at 28 MPH,Tropical Storm,Arlene,4/20/2017 22:44,Beven
+7A,6/20/2017 13:00,11.1,-63.6,45,1008,WNW at 21 MPH,Tropical Storm,Bret,6/20/2017 7:49,Avila
+6,6/21/2017 4:00,26.4,-91,60,997,NW at 7 MPH,Tropical Storm,Cindy,6/20/2017 23:10,Stewart
+1,7/6/2017 4:00,12.8,-38.4,30,1009,WNW at 14 MPH,Tropical Depression,Four,7/5/2017 22:34,Beven
+3,7/18/2017 10:00,11.5,-56.2,50,1007,W at 18 MPH,Tropical Storm,Don,7/18/2017 4:36,Stewart
+2,7/31/2017 13:00,27.7,-83.2,45,1006,E at 8 MPH,Tropical Storm,Emily,7/31/2017 7:54,Stewart
+13A,8/10/2017 1:00,20.2,-95.4,85,983,W at 12 MPH,Hurricane,Franklin,8/9/2017 19:56,Avila
+17,8/17/2017 4:00,40.1,-58.4,105,967,ENE at 37 MPH,Hurricane,Gert,8/16/2017 22:33,Pasch
+22S,8/26/2017 0:00,27.7,-96.7,130,941,NW at 8 MPH,Hurricane,Harvey,8/25/2017 19:08,Blake
+9,8/29/2017 22:00,36,-74.3,45,1003,NE at 24 MPH,Potential Tropical Cyclone,Ten,8/29/2017 16:35,Berg
+26A,9/5/2017 19:00,16.9,-59.1,185,926,W at 14 MPH,Hurricane,Irma,9/5/2017 13:44,Brown
+15,9/9/2017 4:00,16.9,-59.3,155,938,WNW at 14 MPH,Hurricane,Jose,9/8/2017 22:44,Cangialosi
+12A,9/8/2017 19:00,21.1,-96.2,105,974,W at 5 MPH,Hurricane,Katia,9/8/2017 13:50,Blake/Bann
+38,9/27/2017 16:00,30.6,-56.8,115,963,NW at 7 MPH,Hurricane,Lee,9/27/2017 10:49,Blake
+15A,9/20/2017 1:00,17,-64.2,175,909,WNW at 10 MPH,Hurricane,Maria,9/19/2017 19:58,Brown
+13,10/7/2017 16:00,26.6,-88.4,90,984,NNW at 26 MPH,Hurricane,Nate,10/7/2017 10:58,Beven
+22,10/14/2017 16:00,34.8,-26.6,115,960,NE at 25 MPH,Hurricane,Ophelia,10/14/2017 10:40,Avila
+8A,10/29/2017 19:00,28.7,-75.4,60,997,ENE at 46 MPH,Tropical Storm,Philippe,10/29/2017 13:51,Stewart
+9,11/8/2017 10:00,37.1,-48.4,60,997,N at 20 MPH,Tropical Storm,Rina,11/8/2017 3:36,Stewart
